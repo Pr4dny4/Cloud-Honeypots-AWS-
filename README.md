@@ -70,7 +70,7 @@ The system is capable of monitoring activity using AWS CloudTrail and GuardDuty,
 
 
 
-<img width="200" height="600" alt="image" src="https://github.com/user-attachments/assets/f5baa514-b452-4871-83af-825021f71cf7" />
+<img width="200" height="1000" alt="image" src="https://github.com/user-attachments/assets/f5baa514-b452-4871-83af-825021f71cf7" />
 
 
 
