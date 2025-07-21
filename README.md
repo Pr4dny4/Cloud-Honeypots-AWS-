@@ -49,6 +49,23 @@ The system is capable of monitoring activity using AWS CloudTrail and GuardDuty,
 
 ---
 
+## Deployement
+<img width="1917" height="623" alt="image" src="https://github.com/user-attachments/assets/d43a8fff-a060-4874-83e2-1b5f6361ef8a" />
+
+![WhatsApp Image 2025-07-21 at 11 57 19_dd707172](https://github.com/user-attachments/assets/88aedac3-685e-432c-8b40-c292e0e9ce22)
+![WhatsApp Image 2025-07-21 at 11 57 20_e7de1f33](https://github.com/user-attachments/assets/be0a2303-4784-4e92-bfe6-1518bbdb642c)
+
+![WhatsApp Image 2025-07-21 at 11 57 20_4f166e1f](https://github.com/user-attachments/assets/f8dae80e-1c7f-49d4-9997-e9f218fa59d6)
+
+![WhatsApp Image 2025-07-21 at 11 57 20_580bd79f](https://github.com/user-attachments/assets/9d1dcea3-2f34-4960-85a7-ac09dc711f92)
+
+![WhatsApp Image 2025-07-21 at 11 57 37_126644e3](https://github.com/user-attachments/assets/2c75e3e0-c183-4cc7-84c6-7778b59c8399)
+
+![WhatsApp Image 2025-07-21 at 11 57 37_3330d381](https://github.com/user-attachments/assets/f6017c0a-e254-49c3-877e-6261e2a1de45)
+
+
+
+
 ## Educational Value
 
 This project is intended for educational and demonstration purposes. It provides insight into modern cloud security monitoring and response techniques using AWS-native tools and open-source resources.
@@ -69,9 +86,6 @@ Suitable for:
 
 ---
 
-## License
-
-This project is intended for non-commercial, educational use only. Do not deploy in production environments without proper security review and approval.
 
 ---
 
