@@ -64,11 +64,13 @@ The system is capable of monitoring activity using AWS CloudTrail and GuardDuty,
 
 
 
-![WhatsApp Image 2025-07-21 at 12 19 55_462a07e9](https://github.com/user-attachments/assets/3ee46f23-3f06-481a-ad87-15356ab3f973)
+
+<img width="150" height="400" alt="image" src="https://github.com/user-attachments/assets/94eea51e-b474-499c-ae14-032fdb920373" />
 
 
 
-![WhatsApp Image 2025-07-21 at 12 20 29_672d7cfb](https://github.com/user-attachments/assets/174c3b78-3313-4e44-ace9-276044dfa08c)
+
+<img width="150" height="400" alt="image" src="https://github.com/user-attachments/assets/f5baa514-b452-4871-83af-825021f71cf7" />
 
 
 
