@@ -46,6 +46,8 @@ The system is capable of monitoring activity using AWS CloudTrail and GuardDuty,
 5. (Optional) Lambda function is triggered to automate the response:
    - Disable exposed IAM keys
    - Tag EC2 instances as compromised
+![WhatsApp Image 2025-07-22 at 16 05 21_6fb7866d](https://github.com/user-attachments/assets/18990da8-5b3d-4710-979b-a8674eea8452)
+
 
 ---
 
